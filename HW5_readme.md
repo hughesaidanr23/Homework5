@@ -24,7 +24,7 @@ Homework5 is an app that allows users to take pictures, draw on them, and add ic
 
 ### App Walkthough GIF
 
-<img src="https://imgur.com/qmNUKbh" width=250><br>
+<img src="https://imgur.com/SOuQmYH" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
